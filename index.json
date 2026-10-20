@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "paradocx",
+  "versions": [
+    {
+      "commit": "68b1e2b1a77087b4058130e90e16169201ff4387",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:31:38.766086+00:00"
+    }
+  ]
+}
